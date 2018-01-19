@@ -1,0 +1,86 @@
+Python 3.6.3 (default, Oct  3 2017, 21:45:48) 
+[GCC 7.2.0] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> print("mohamedarif")
+mohamedarif
+>>> 
+================= RESTART: /home/ec2017b203/arif/program1.py =================
+arif
+>>> 
+================= RESTART: /home/ec2017b203/arif/program1.py =================
+arif
+i m here to enjoy python
+>>> 
+================= RESTART: /home/ec2017b203/arif/program1.py =================
+arif
+i m here to enjoy python
+Traceback (most recent call last):
+  File "/home/ec2017b203/arif/program1.py", line 6, in <module>
+    print['cricket']
+TypeError: 'builtin_function_or_method' object is not subscriptable
+>>> 
+================= RESTART: /home/ec2017b203/arif/program1.py =================
+arif
+i m here to enjoy python
+cricket
+>>> 200+300
+500
+>>> 
+================= RESTART: /home/ec2017b203/arif/program1.py =================
+arif
+i m here to enjoy python
+cricket
+Traceback (most recent call last):
+  File "/home/ec2017b203/arif/program1.py", line 7, in <module>
+    print9('200+20')
+NameError: name 'print9' is not defined
+>>> 
+================= RESTART: /home/ec2017b203/arif/program1.py =================
+arif
+i m here to enjoy python
+cricket
+200+20
+>>> print('200+100')
+200+100
+>>> 700-234
+466
+>>> 4*8
+32
+>>> 521/600*100
+86.83333333333333
+>>> 10/2
+5.0
+>>> 10//2
+5
+>>> 2%11
+2
+>>> 22%24
+22
+>>> 34%87
+34
+>>> 45%876
+45
+>>> 
+=================== RESTART: /home/ec2017b203/arif/2pro.py ===================
+5
+>>> 
+=================== RESTART: /home/ec2017b203/arif/2pro.py ===================
+5
+>>> 
+=================== RESTART: /home/ec2017b203/arif/2pro.py ===================
+60
+=================== RESTART: /home/ec2017b203/arif/2pro.py ===================
+enter a value66
+enter a value77
+6677
+>>> 
+=================== RESTART: /home/ec2017b203/arif/2pro.py ===================
+enter a value89
+enter a value2
+91
+>>> 
+=================== RESTART: /home/ec2017b203/arif/2pro.py ===================
+enter a value67
+enter a value78
+145.0
+>>> 

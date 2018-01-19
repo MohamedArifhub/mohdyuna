@@ -1,0 +1,3 @@
+hi this is arif
+this was my first programming lab were i first sign up my github account then printed my name
+and did some simple maths
